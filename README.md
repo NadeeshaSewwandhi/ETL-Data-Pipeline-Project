@@ -111,26 +111,7 @@ Data processing includes:
 - Automatically creates/replaces tables
 - Loads transformed data using SQLAlchemy
 
----
-
-## ▶️ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/etl-pipeline.git
-cd etl-pipeline
-```
-
-### Install dependencies
-
-```bash
-pip install pandas requests sqlalchemy psycopg2-binary
-```
-
----
-
-## 🗄️ Database Configuration
+##  Database Configuration
 
 Update PostgreSQL credentials inside `load.py`:
 
