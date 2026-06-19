@@ -127,7 +127,7 @@ Make sure PostgreSQL is running before executing the pipeline.
 
 ---
 
-## ▶️ Run the Pipeline
+##  Run the Pipeline
 
 ```bash
 python main.py
